@@ -7,7 +7,7 @@
 • __Alura__ - Back-End Python: do zero ao avançado.
 
 #### 🚀 Tecnologias <br>
-<img loading="lazy" src="https://img.shields.io/badge/CSS-blue" width="30" height="20"/>   <img loading="lazy" src="https://img.shields.io/badge/HTML-orange" width="40" height="20"/>  <img loading="lazy" src="https://img.shields.io/badge/JavaScript-yellow" width="80" height="20"/> <img loading="lazy" src="https://img.shields.io/badge/Python-gray" width="50" height="20"/> 
+ <img loading="lazy" src="https://img.shields.io/badge/JavaScript-yellow" width="80" height="20"/> <img loading="lazy" src="https://img.shields.io/badge/Python-gray" width="50" height="20"/> 
 
 #### 💼 Experiência <br>
 • Atualmente trabalho na área de Logística. <br>
