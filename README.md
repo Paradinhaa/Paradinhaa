@@ -10,8 +10,7 @@
  <img loading="lazy" src="https://img.shields.io/badge/JavaScript-yellow" width="80" height="20"/> <img loading="lazy" src="https://img.shields.io/badge/Python-gray" width="50" height="20"/> 
 
 #### 💼 Experiência <br>
-• Atualmente trabalho na área de Logística. <br>
-• Buscando migrar para área de Desenvolvimento.
+
 
 #### 📫 Contato
 <div>
